@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<sdks>
+
+<sdk cores="" description="Test sdk" id="SDK_A" langs="undefined" name="SDK_A" symbols="" toolchains="" version="1">
+<env isSystem="false" name="SDK_A_1_PATH" value="D:\GIT\"/>
+<sourceFile copy="false" path="src\main.c"/>
+<sourceFile copy="false" path="src\a.c"/>
+<headerFile copy="false" path="inc\"/>
+<headerFile copy="false" path="inc\a.h"/>
+<resourceFile copy="true" path="doc\a.rtf"/>
+</sdk>
+</sdks>
