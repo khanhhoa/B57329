@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <sdks>
 
-<sdk cores="" description="Test sdk" id="SDK_A" langs="undefined" name="SDK_A" symbols="" toolchains="" version="1">
-<env isSystem="false" name="SDK_A_1_PATH" value="D:\GIT\"/>
+<sdk cores="S32K144" description="Test SDK loaded from GIT" id="SDK_A" langs="c only" name="test2" symbols="" toolchains="" version="1">
+<env isSystem="false" name="SDK_A_1_PATH" value="D:\unused\"/>
 <sourceFile copy="false" path="src\main.c"/>
 <sourceFile copy="false" path="src\a.c"/>
 <headerFile copy="false" path="inc\"/>
